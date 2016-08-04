@@ -1,0 +1,31 @@
+moving to the starting area
+hello, i will be guiding you today
+please follow behind me
+hey ho, lets go
+lets go
+Your doing well
+Your doing good, keep it up
+you are making progress on the route
+you have fallen a bit behind, il wait here
+your a bit to far from me, il wait here
+I cannot see you, il stop here
+i have lost sight of you, il wait here
+Human has not returned, ending the guide.
+we do not have far to go, come towards me
+come towards me, we can finish the guide 
+Human is still moving away, ending the guide.
+Still could not see human, ending the guide.
+i will wait here for you
+il wait for to come closer to me
+We have come to the end of the guide, Thank you for following.
+I will now go back to the starting area, please stand clear.
+good, now we can carry on
+Thats it! keep coming towards me
+good! keep coming towards me
+The program will now end.
+This is the robot lab
+This is were the magic happens
+here You can see Baxter
+work is done on baxter here
+Leaving the robot lab
+this is the professor dungeon

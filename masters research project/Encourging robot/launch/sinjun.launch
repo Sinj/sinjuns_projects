@@ -1,0 +1,16 @@
+<launch>
+
+  <arg name="cords" default="$(find sinjun)/conf/cordrom.txt" />
+  <arg name="speak" default="$(find sinjun)/conf/tospeak.txt" />
+  <arg name="out" default="$(find sinjun)/results/method1/" />
+
+  <node name="online_qtc_creator" pkg="sinjun" type="QTCexample.py" output="screen"/>
+
+  <node name="robot_simple" pkg="sinjun" type="robot_simple_working.py" output="screen">
+    <param name="cords" type="string" value="$(arg cords)" />
+    <param name="speak" type="string" value="$(arg speak)" />
+    <param name="out" type="string" value="$(arg out)" />
+  </node>
+
+
+</launch>

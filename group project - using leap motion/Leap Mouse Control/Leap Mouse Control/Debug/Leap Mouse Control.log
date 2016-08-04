@@ -1,0 +1,17 @@
+﻿Build started 30/04/2014 18:51:33.
+     1>Project "F:\University\Group Project\28.04.2014 BUILD\Leap Mouse Control\Leap Mouse Control\Leap Mouse Control.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Leap Mouse Control.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Leap Mouse Control.vcxproj -> F:\University\Group Project\28.04.2014 BUILD\Leap Mouse Control\Debug\Leap Mouse Control.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Leap Mouse Control.unsuccessfulbuild".
+         Touching "Debug\Leap Mouse Control.lastbuildstate".
+     1>Done Building Project "F:\University\Group Project\28.04.2014 BUILD\Leap Mouse Control\Leap Mouse Control\Leap Mouse Control.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.22

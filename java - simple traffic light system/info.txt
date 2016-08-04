@@ -1,0 +1,1 @@
+this was a simple java project. the idea was to get java to connect to a server and read data from it. using this data to determine what traffic ligts should be doing; once decided this would be sent back to the server.

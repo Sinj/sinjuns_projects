@@ -1,0 +1,1 @@
+In this project we had to create models to deteremine if liver lesions were cancerous or benign. serveral model were made in a program called Weka and other were made in matlab. 

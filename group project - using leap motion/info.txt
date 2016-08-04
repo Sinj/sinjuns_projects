@@ -1,0 +1,2 @@
+This was a group project to see if we could get the leap motion to act as a mouse using only hands.
+currently does all the normal functions of a mouse.
